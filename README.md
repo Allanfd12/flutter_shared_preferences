@@ -1,6 +1,8 @@
 # flutter_dados_preferencia
 
-A new Flutter application.
+![image](https://user-images.githubusercontent.com/75325265/137240641-526731ec-adc5-4994-ab07-2838913c7c4f.png)
+
+Um aplicativo que cadastra, lê e exclui variaveis salvas como preferência de usuário
 
 ## Getting Started
 
